@@ -1,4 +1,7 @@
-
+# Index
+- [Ubuntu/Debian](#ubuntudebian)
+- [windows with WSL](#windows-with-wsl) TODO
+- [MacOS](#macos) TODO
 
 # Ubuntu/Debian
 ## Docker
